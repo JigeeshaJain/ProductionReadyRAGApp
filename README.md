@@ -257,6 +257,13 @@ This project implements several production-grade patterns:
 
 ---
 
+<img width="802" height="810" alt="Screenshot 2026-06-15 at 10 44 12 AM" src="https://github.com/user-attachments/assets/92684969-dac6-4ee7-8f26-8f77445074fb" />
+
+
+<img width="808" height="593" alt="Screenshot 2026-06-15 at 10 44 21 AM" src="https://github.com/user-attachments/assets/16124bf5-2693-4e9e-bb8d-e9a7c27a93c7" />
+
+
+
 ## Future Improvements
 
 * Multi-tenant support
