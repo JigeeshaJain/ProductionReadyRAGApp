@@ -65,7 +65,7 @@ Generated Response
 | Vector Database        | Qdrant                   |
 | Workflow Orchestration | Inngest                  |
 | Embeddings             | OpenAI Embeddings        |
-| LLM                    | OpenAI GPT Models        |
+| LLM                    | OpenAI/ GPT4 Model        |
 | Frontend               | Web UI                   |
 | Observability          | Logging & Event Tracking |
 
