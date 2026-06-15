@@ -21,6 +21,14 @@ Unlike typical AI demos, this project focuses on real-world deployment considera
 
 ---
 
+<img width="802" height="810" alt="Screenshot 2026-06-15 at 10 44 12 AM" src="https://github.com/user-attachments/assets/92684969-dac6-4ee7-8f26-8f77445074fb" />
+
+---
+
+<img width="1482" height="1019" alt="Screenshot 2026-06-15 at 10 48 16 AM" src="https://github.com/user-attachments/assets/56010d96-d83d-4866-b922-7171178752d2" />
+
+
+--- 
 ## Architecture
 
 ```text
@@ -256,11 +264,6 @@ This project implements several production-grade patterns:
 * Technical Documentation Search
 
 ---
-
-<img width="802" height="810" alt="Screenshot 2026-06-15 at 10 44 12 AM" src="https://github.com/user-attachments/assets/92684969-dac6-4ee7-8f26-8f77445074fb" />
-
-
-<img width="808" height="593" alt="Screenshot 2026-06-15 at 10 44 21 AM" src="https://github.com/user-attachments/assets/16124bf5-2693-4e9e-bb8d-e9a7c27a93c7" />
 
 
 
